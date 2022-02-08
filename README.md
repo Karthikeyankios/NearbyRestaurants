@@ -19,7 +19,9 @@ The demo uses the Google Search API returns information in a JSON format.
 
 Use of UITableViewController to display Resturant list information.
 
-Implemented Unit test for business logic
+Details Page restaurants contain more than one picture, implement in the collection view. User able to scroll and view the picture
+
+Details Page Google map sdk with directions of two locations.
 
 ## Installation
 
