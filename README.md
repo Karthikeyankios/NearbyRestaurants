@@ -8,6 +8,9 @@
 
  Swift 5.0
 
+You Should provide Google API Key In AppDelegate.Swift File
+`GoogleApi.shared.initialiseWithKey("")`
+
 ### Objective:
 
 A Restaurant app to demonstrate some aspect of clean architecture using MVC pattern, Swift, SOLID principles , code organisation, loose coupling, best practices used in modern iOS programming using Swift.
