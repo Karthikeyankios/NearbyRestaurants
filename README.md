@@ -41,6 +41,14 @@ Then clean and build the project in Xcode
 MVC - Model view Controller My preferred architecture.
 
 
+## 3rd Party Libraries
+
+`GoogleMaps`
+
+`SDWebImage`
+
+`Google-Api-Helper`
+
 
 ## Screenshot:
 
