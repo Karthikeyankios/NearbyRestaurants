@@ -51,9 +51,7 @@ MVC - Model view Controller My preferred architecture.
 
 
 ## Screenshot:
+![Simulator Screen Shot - iPhone 12 - 2022-02-05 at 19 41 21](https://user-images.githubusercontent.com/30459376/153124904-0f8a5110-1662-4601-abe7-e7f4fc6270dd.png)
+![Simulator Screen Shot - iPhone 12 - 2022-02-05 at 19 41 10](https://user-images.githubusercontent.com/30459376/153124958-ed26d8dc-6529-4109-92eb-da5ce5765fac.png)
 
-![Simulator Screen Shot - iPhone 12 - 2022-02-05 at 19 41 21](https://user-images.githubusercontent.com/30459376/153018776-eb1c3c09-cf9b-4d40-a5bd-120daef454d3.png)
 
-
-
-![Simulator Screen Shot - iPhone 12 - 2022-02-05 at 19 41 10](https://user-images.githubusercontent.com/30459376/153018970-a4035982-03e6-4ea5-897a-415b1fcb0bbd.png)
